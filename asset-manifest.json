@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Yushi/static/css/main.e48ea444.css",
-    "main.js": "/Yushi/static/js/main.8a86fc75.js",
+    "main.css": "/Yushi/static/css/main.535a8061.css",
+    "main.js": "/Yushi/static/js/main.7b8c70c9.js",
     "static/js/787.9d23e47f.chunk.js": "/Yushi/static/js/787.9d23e47f.chunk.js",
     "index.html": "/Yushi/index.html",
-    "main.e48ea444.css.map": "/Yushi/static/css/main.e48ea444.css.map",
-    "main.8a86fc75.js.map": "/Yushi/static/js/main.8a86fc75.js.map",
+    "main.535a8061.css.map": "/Yushi/static/css/main.535a8061.css.map",
+    "main.7b8c70c9.js.map": "/Yushi/static/js/main.7b8c70c9.js.map",
     "787.9d23e47f.chunk.js.map": "/Yushi/static/js/787.9d23e47f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e48ea444.css",
-    "static/js/main.8a86fc75.js"
+    "static/css/main.535a8061.css",
+    "static/js/main.7b8c70c9.js"
   ]
 }
